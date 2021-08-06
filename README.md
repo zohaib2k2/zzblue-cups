@@ -32,11 +32,11 @@ and you can run the program by running
 ./blue-cups-sv
 ``` 
 
-##Configration
+## Configration
 
 see config.h and after editing the file recompile the program.
 
-##Sponsoring
+## Sponsoring
 
 Fixing bugs and adding new features takes a lot a time and efforts 
 in order to motivate the me to continue the maintenance of 
